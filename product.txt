@@ -1,0 +1,6 @@
+ring,23.0,4
+machine,32.0,2
+queen,3.0,21
+pen,45.0,3
+beans,32.0,2
+banana,34.0,2
